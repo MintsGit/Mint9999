@@ -289,7 +289,8 @@ a:hover
    }
 
    table { 
-    width: 70%; /* whichever width you want */
+    width: 83%; /* whichever width you want */
     margin-left: 15%; /* minus the amount to make it 100% */
 }
+
 
