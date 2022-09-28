@@ -271,3 +271,25 @@ a:hover
         width: 100%;
     }
 }
+
+
+
+
+
+
+
+    
+    @media only screen and (max-width: 600px) {
+        .largeScreen {display: none;}
+   }
+
+   
+    @media only screen and (min-width: 601px) {
+        .smallScreen {display: none;}
+   }
+
+   table { 
+    width: 70%; /* whichever width you want */
+    margin-left: 15%; /* minus the amount to make it 100% */
+}
+
