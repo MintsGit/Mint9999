@@ -170,7 +170,7 @@ a:hover
       }
   }
   
- 
+
 
 
 
@@ -255,14 +255,14 @@ a:hover
     }
     .images img {
         margin-right: 0 !important;
-        margin-left: 0 !important;
+        margin-left: 10 !important;
     }
 }
 
 @media screen and 
 (max-width: 600px) {
     .buttons button {
-        width: 100%;
+        width: 60%;
         display: block;
     }
     .images
