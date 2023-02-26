@@ -254,8 +254,8 @@ a:hover
         flex-direction: colum;
     }
     .images img {
-        margin-right: 0 !important;
-        margin-left: 10 !important;
+        margin-right: 1 !important;
+        margin-left: 1 !important;
     }
 }
 
