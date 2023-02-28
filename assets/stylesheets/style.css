@@ -138,3 +138,10 @@
     margin: -1em;
 }
 
+@media only screen and (min-width: 601px) {
+  .smallScreen {display: none;}
+}
+
+@media only screen and (max-width: 600px) {
+  .largeScreen {display: none;}
+}
