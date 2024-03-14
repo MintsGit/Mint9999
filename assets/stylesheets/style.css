@@ -4,7 +4,15 @@
 
 
 
+.spotify-container {
 
+.obj {
+  display: inline-block;
+ 
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
+}
 
 .content h2 {
   color: #fff;
